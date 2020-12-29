@@ -1,0 +1,83 @@
+<html>
+<head>
+    
+</head>
+<body>
+    <style>
+        table, th, td {
+          border: 0px solid black;
+        }
+        </style>
+        
+        <table style ="width:100%">
+        <tr>
+            <th>
+             
+                <center><p><i><nav>
+                    <a href="">Sign in</a>|
+                    <a href="">Sign up  </a>|
+                    <a href="">contact us : 9999999999</a>|
+                    <a href="">muvogous@gmail.com</a>|
+                </nav>
+  
+                  </i></p></center>
+                    
+                <br>
+                <center>
+                    <form action ="/action.php" autocomplete="on">
+                        <label for ="quantity">Search here</label>
+                        <input type="email" id="quantity" name="email">
+                        </form>
+               <img src="1.PNG" >
+               <a href="https://www.facebook.com"><img src="2.PNG"></a>
+
+                </center>
+                
+                <br>
+                <hr>
+                <center><i><h1>WHAT'S TRENDING </h1></i></center>
+                
+            </th>
+        </tr></table>
+<table style="width:100%">
+    <tr>
+      <th>
+         
+        <center><img src="3.PNG"  ></center>
+         
+          <br>
+          <center><img src="4.PNG"  ></center>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+      </th>
+      <th>
+       
+
+      </th>
+      <th>
+        
+    </tr>
+   
+  </table>
+  <table style ="width:100%">
+    <tr>
+        <th>
+            <br>
+            <br>
+            <br>
+            <br>
+        </th>
+    </tr></table>
+</body>
+</html>
